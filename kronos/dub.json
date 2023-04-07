@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Carter"
+	],
+	"copyright": "Copyright © 2023, Carter",
+	"description": "Function hooking library.",
+	"license": "MIT",
+	"name": "kronos",
+	"targetType": "library",
+	"libs": [
+		"User32"
+	]
+}

@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/kronos
+kronos.so
+kronos.dylib
+kronos.dll
+kronos.a
+kronos.lib
+kronos-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
